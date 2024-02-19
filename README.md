@@ -29,6 +29,10 @@ clone-sweeper started from a personal frustration with my Clone Hero song librar
    ```bash
    pip install tqdm
 
+To run the program go into the directory and start "main.py":
+```bash
+python main.py
+
 ## Roadmap
 clone-sweeper is under continuous development with plans to incorporate:
 
