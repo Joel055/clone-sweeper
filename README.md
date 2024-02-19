@@ -47,4 +47,5 @@ clone-sweeper is under continuous development with plans to incorporate:
 * Significant refactoring for efficiency and code clarity.
 * Self-contained installer with quick-access shortcuts and context menu integration.
 * Option to do a system-wide scan.
+* Simple database implementation for caching instead of JSON
 * And more!
